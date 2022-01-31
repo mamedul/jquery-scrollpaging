@@ -47,7 +47,7 @@ jsDelivr CDN
 Or Cloudflare CDN
 
 ```html
-<script src="https://unpkg.com/jquery-scrollpaging@1.1.0/src/jquery-scrollpaging-v1.1.0.min.js"></script>
+<script src="https://unpkg.com/jquery-scrollpaging@1.0.0/src/jquery-scrollpaging-v1.0.0.min.js"></script>
 ```
 
 Or you can use locally downloaded file in your HTML file-
