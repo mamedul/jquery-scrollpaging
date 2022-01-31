@@ -1,7 +1,7 @@
 {
   "name": "jquery-scrollpaging",
   "description": "Easy jQuery plugin for scroll pagination(infinite scroll)",
-  "main": "./src/jquery-scrollpaging-v1.0.0.min.js",
+  "main": "./src/jquery-scrollpaging-v1.0.0.js",
   "authors": [
     "MAMEDUL ISLAM"
   ],
