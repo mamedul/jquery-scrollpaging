@@ -1,0 +1,60 @@
+{
+  "name": "jquery-scrollpaging",
+  "description": "Easy jQuery plugin for scroll pagination(infinite scroll)",
+  "main": "./src/jquery-scrollpaging-v1.0.0.min.js",
+  "authors": [
+    "MAMEDUL ISLAM"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery-scrollpaging",
+    "jquery-pagingscroll",
+    "jquery-scrollpagination",
+    "jquery-paginationscroll",
+    "jquery-infinitescroll",
+    "jquery-infinityscroll",
+    "jquery-scrollinfinite",
+    "jquery-scrollinfinity",
+    "scroll",
+    "pagination",
+    "infinite",
+    "infinity",
+    "scrollpaging",
+    "pagingscroll",
+    "scrollpagination",
+    "paginationscroll",
+    "infinitescroll",
+    "infinityscroll",
+    "scrollinfinite",
+    "scrollinfinity",
+    "scroll-pagination",
+    "scroll-ajax-pagination",
+    "jquery",
+    "jquery-plugin",
+    "jquery-scroll",
+    "plugin",
+    "mamedul",
+    "momedul",
+    "mamedul",
+    "islam",
+    "momedul",
+    "islam",
+    "www.mamedul.ml",
+    "freelancer",
+    "developer",
+    "javascript",
+    "developer",
+    "bangladesh"
+  ],
+  "homepage": "https://github.com/mamedul/jquery-scrollpaging",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
