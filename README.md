@@ -12,11 +12,13 @@ This plugin is highly customizable, supports multiple scroll directions, and inc
 
 ### Live Demo
 
-[![Demo 1](https://img.shields.io/badge/Demo-1-brightgreen.svg)](https://mamedul.github.io/jquery-beforeafter-slider/examples/example4.html) &nbsp; &nbsp; 
-[![Demo 2](https://img.shields.io/badge/Demo-2-brightgreen.svg)](https://mamedul.github.io/jquery-beforeafter-slider/examples/example2.html) &nbsp; &nbsp; 
-[![Demo 3](https://img.shields.io/badge/Demo-3-brightgreen.svg)](https://mamedul.github.io/jquery-beforeafter-slider/examples/example3.html) &nbsp; &nbsp; 
-[![Demo 4](https://img.shields.io/badge/Demo-4-brightgreen.svg)](https://mamedul.github.io/jquery-beforeafter-slider/examples/example4.html) &nbsp; &nbsp; 
-[![Demo 5](https://img.shields.io/badge/Demo-5-brightgreen.svg)](https://mamedul.github.io/jquery-beforeafter-slider/examples/example5.html)
+[![Demo 1](https://img.shields.io/badge/Demo-1-brightgreen.svg)](https://mamedul.github.io/jquery-scrollpaging/examples/example4.html) &nbsp; &nbsp; 
+[![Demo 2](https://img.shields.io/badge/Demo-2-brightgreen.svg)](https://mamedul.github.io/jquery-scrollpaging/examples/example2.html) &nbsp; &nbsp; 
+[![Demo 3](https://img.shields.io/badge/Demo-3-brightgreen.svg)](https://mamedul.github.io/jquery-scrollpaging/examples/example3.html) &nbsp; &nbsp; 
+[![Demo 4](https://img.shields.io/badge/Demo-4-brightgreen.svg)](https://mamedul.github.io/jquery-scrollpaging/examples/example4.html) &nbsp; &nbsp; 
+[![Demo 5](https://img.shields.io/badge/Demo-5-brightgreen.svg)](https://mamedul.github.io/jquery-scrollpaging/examples/example5.html)
+
+[![jQuery.scrollPaging](https://mamedul.github.io/jquery-scrollpaging/screencapture-jquery-scrollpaging.png)](https://mamedul.github.io/jquery-scrollpaging/)
 
 ---
 
