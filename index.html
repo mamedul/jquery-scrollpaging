@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+  
+  <title>jQuery ScrollPaging Plugin | Infinite Scroll & AJAX Pagination</title>
+  <meta name="description" content="A lightweight, responsive jQuery plugin for creating infinite scroll and AJAX-based pagination. Automatically load more content as the user scrolls down the page.">
+  <meta name="keywords" content="jquery, infinite scroll, scroll pagination, lazy load, ajax, scrollpaging, plugin, responsive">
+  <meta name="author" content="MAMEDUL ISLAM">
+  <meta name="theme-color" content="#42b983">
+
+  <link rel="canonical" href="https://mamedul.github.io/jquery-scrollpaging/">
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="preconnect" href="//cdn.jsdelivr.net">
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mamedul.github.io/jquery-scrollpaging/">
+  <meta property="og:title" content="jQuery ScrollPaging Plugin | Infinite Scroll & AJAX Pagination">
+  <meta property="og:description" content="A lightweight jQuery plugin for creating 'load more on scroll' functionality with ease.">
+  <meta property="og:image" content="https://mamedul.github.io/jquery-scrollpaging/screencapture-jquery-scrollpaging.png">
+  <meta property="og:site_name" content="jQuery ScrollPaging Plugin">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://mamedul.github.io/jquery-scrollpaging/">
+  <meta name="twitter:title" content="jQuery ScrollPaging Plugin | Infinite Scroll & AJAX Pagination">
+  <meta name="twitter:description" content="A lightweight jQuery plugin for creating 'load more on scroll' functionality with ease.">
+  <meta name="twitter:image" content="https://mamedul.github.io/jquery-scrollpaging/screencapture-jquery-scrollpaging.png">
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "url": "https://mamedul.github.io/jquery-scrollpaging/",
+        "name": "jQuery ScrollPaging Plugin | Documentation",
+        "description": "Official documentation and examples for the jQuery ScrollPaging Plugin, a lightweight solution for infinite scrolling and AJAX pagination."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "jQuery ScrollPaging",
+          "item": "https://mamedul.github.io/jquery-scrollpaging/"
+        }]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "jQuery ScrollPaging",
+        "applicationCategory": "JavaScript Library",
+        "operatingSystem": "All",
+        "description": "A lightweight, responsive jQuery plugin for creating infinite scroll and AJAX-based pagination. Automatically load more content as the user scrolls.",
+        "license": "https://opensource.org/licenses/MIT",
+        "releaseNotes": "https://github.com/mamedul/jquery-scrollpaging/releases",
+        "installUrl": "https://github.com/mamedul/jquery-scrollpaging",
+        "softwareHelp": {
+          "@type": "CreativeWork",
+          "url": "https://github.com/mamedul/jquery-scrollpaging"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "MAMEDUL ISLAM",
+          "url": "https://mamedul.github.io/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <div id="app">
+    <header>
+      <h1>jQuery ScrollPaging Plugin</h1>
+      <p>A lightweight jQuery plugin for effortless infinite scrolling and AJAX pagination. Automatically load more content as users scroll down.</p>
+    </header>
+    <main>
+      <section>
+        <h2>Features</h2>
+        <ul>
+          <li>Automatic content loading on scroll</li>
+          <li>AJAX-powered and efficient</li>
+          <li>Easy to integrate with any server-side language</li>
+          <li>Customizable options (offset, delay, loading indicator)</li>
+          <li>Callback functions for success and error handling</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Quick Start</h2>
+        <p>Get started by including jQuery and the plugin's files, then initialize it on your content container.</p>
+        <code>
+          &lt;!-- Initialize the plugin in your script --&gt;<br>
+          &lt;script&gt;<br>
+            $('#content-container').scrollPaging({<br>
+              &nbsp;&nbsp;url: '/api/posts?page='<br>
+            });<br>
+          &lt;/script&gt;
+        </code>
+      </section>
+    </main>
+  </div>
+
+  <noscript>
+    <div style="padding: 2rem; font-family: sans-serif;">
+        <h1>jQuery ScrollPaging Plugin</h1>
+        <p>A lightweight, responsive jQuery plugin for creating infinite scroll and AJAX-based pagination. Automatically load more content as the user scrolls.</p>
+        <p><strong>JavaScript is required to view the interactive documentation.</strong> However, you can find all information and download the source code from the <a href="https://github.com/mamedul/jquery-scrollpaging" style="color: #42b983;">official GitHub repository</a>.</p>
+        <hr>
+        <h2>Features</h2>
+        <ul>
+          <li>Automatic Content Loading on Scroll</li>
+          <li>AJAX-Powered and Efficient</li>
+          <li>Easy to Integrate</li>
+        </ul>
+    </div>
+  </noscript>
+
+  <script>
+    window.$docsify = {
+      name: 'jQuery ScrollPaging',
+      // NOTE: Replace with your actual repo URL
+      repo: 'https://github.com/mamedul/jquery-scrollpaging',
+      loadSidebar: true,
+      subMaxLevel: 2
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+</body>
+</html>
