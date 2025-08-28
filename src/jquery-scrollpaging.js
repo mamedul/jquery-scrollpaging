@@ -7,12 +7,14 @@
  *   https://opensource.org/licenses/MIT
  *
  * Project home:
- *   https://mamedul.gitlab.io/dev-projects/jquery-scrollpaging
+ *   https://mamedul.github.io/jquery-scrollpaging
  * 
- * Version: 1.0.0
+ * Version: 1.1.0
  */
  (function($) {
      
+    if(typeof $.fn =='undefined'){ return; }
+    
     "use strict";
 
     function R(e) {
@@ -205,4 +207,4 @@
                 for (var a = n.split(" "), l = 0; l < a.length; l++) $(f).bind(a[l], t)
         }), this.version = "1.0.0", this.developer = "MAMEDUL ISLAM", this
     }
-})(jQuery);
+})(window.jQuery || jQuery || {});

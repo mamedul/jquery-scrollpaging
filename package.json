@@ -1,8 +1,8 @@
 {
 	"name": "jquery-scrollpaging",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Easy jQuery plugin for scroll pagination(infinite scroll)",
-	"main": "./src/jquery-scrollpaging-v1.0.0.min.js",
+	"main": "./src/jquery-scrollpaging.min.js",
 	"directories": {
 	  "doc": "docs",
 	  "example": "examples"
@@ -41,7 +41,8 @@
 	  "momedul",
 	  "mamedul islam",
 	  "momedul islam",
-	  "www.mamedul.ml",
+	  "mamedul.github.io",
+	  "www.mamedul.github.io",
 	  "freelancer",
 	  "developer",
 	  "javascript developer",
@@ -56,5 +57,5 @@
 	"bugs": {
 	  "url": "https://github.com/mamedul/jquery-scrollpaging/issues"
 	},
-	"homepage": "https://mamedul.github.io/dev-projects/jquery-scrollpaging/"
-  }
+	"homepage": "https://mamedul.github.io/jquery-scrollpaging/"
+}
